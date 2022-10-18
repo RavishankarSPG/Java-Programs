@@ -3,8 +3,8 @@ package RavishankarGJava;
 public class add {
 	public static void main(String[] args) {
 		int num1,num2,answer;
-		num1=45;
-		num2=68;
+		num1=454;
+		num2=684;
 		
 		//addition
 		answer=num1+num2;
